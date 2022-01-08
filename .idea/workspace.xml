@@ -20,8 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13b0fd4-d489-471a-bfa2-b218dc2b2f15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TheBreakingBad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/components/EpisodeLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/components/EpisodeLink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/components/Loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/components/Loading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/pages/CharacterPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/pages/CharacterPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/pages/EpisodePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/pages/EpisodePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/pages/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/pages/MainPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +56,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinkShorter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jeep Wordpress" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -62,7 +73,9 @@
       <updated>1641430388498</updated>
       <workItem from="1641430389723" duration="346000" />
       <workItem from="1641430737110" duration="12000" />
-      <workItem from="1641430762975" duration="23465000" />
+      <workItem from="1641430762975" duration="30274000" />
+      <workItem from="1641535498882" duration="2601000" />
+      <workItem from="1641624559390" duration="7627000" />
     </task>
     <servers />
   </component>
@@ -79,16 +92,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1920" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641628167209">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="1920" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1641628167209" />
     <state x="2549" y="298" key="EditFileWatcherDialog" timestamp="1641441053713">
       <screen x="1920" y="0" width="1920" height="1030" />
     </state>
     <state x="2549" y="298" key="EditFileWatcherDialog/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1641441053713" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1641438713608">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1641624833722">
       <screen x="1920" y="0" width="1920" height="1030" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1641438713608" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1641624833722" />
     <state width="1158" height="420" key="GridCell.Tab.0.bottom" timestamp="1641442615561">
       <screen x="1920" y="0" width="1920" height="1030" />
     </state>

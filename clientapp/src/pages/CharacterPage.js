@@ -20,7 +20,7 @@ const CharacterPage = () => {
     }, [])
 
     return (
-        <div>
+        <div className="w-full">
             {isLoading && <Loading/>}
 
             {character &&
@@ -28,9 +28,9 @@ const CharacterPage = () => {
                 <div className="flex-none w-48 relative">
                     <img src={`${character.img}`} alt="" className="rounded-md absolute inset-0 w-full h-full"/>
                 </div>
-                <form className="flex-auto p-6">
+                <form className="flex-auto p-1">
                     <div className="flex flex-wrap">
-                        <h1 className="flex-auto text-lg font-semibold text-gray-900">
+                        <h1 className="flex-auto text-xl md:text-3xl font-semibold text-gray-900">
                             {`${character.name} (${character.nickname})`}
                         </h1>
 
@@ -51,14 +51,14 @@ const CharacterPage = () => {
                         </div>
                     </div>
 
-                    <p className="text-lg text-gray-800">
-                        List of occupations
+                    <p className="text-xl text-gray-800 mb-5">
+                        List of occupations:
                     </p>
 
                     {character.occupation &&
 
                         character.occupation.map((occu) => (
-                            <div> {occu} </div>
+                            <div key={occu}> {occu} </div>
                         ))
                     }
 

@@ -12,15 +12,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-header{
+header {
   background-color: #7f878d;
   width: 100%;
 }
 
-.episodeLink{
+.episodeLink {
   display: flex;
   justify-content: space-between;
-  //margin: 1rem;
   width: 28rem;
   font-size: 1.25rem;
   padding: 10px;
@@ -30,10 +29,9 @@ header{
   color: #2d2d2d;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-
 }
-.season{
-  //margin: 1rem;
+
+.season {
   width: 9rem;
   font-size: 1.25rem;
   padding: 10px;
@@ -48,18 +46,15 @@ header{
 .loader {
   height: 5rem;
   width: 5rem;
-  position: fixed ;
+  position: fixed;
   display: flex;
   justify-content: center;
   align-items: center;
-
   background-color: rgba(182, 182, 182, 0.11);
-
   border-radius: 50%;
   border: 5px dashed #0c096d;
   animation: rotate 2s infinite linear;
 }
-
 
 @keyframes rotate {
   from {
@@ -69,20 +64,18 @@ header{
     transform: rotate(360deg);
   }
 }
-
-.episodeBlock{
-}
-
 @media (max-width: 767px) {
-  .episodeLink{
+  .episodeLink {
     width: 14rem;
     font-size: 0.7rem;
     padding: 6px;
-
   }
-  .season{
+
+  .season {
     width: 5rem;
     font-size: 0.7rem;
     padding: 6px;
   }
 }
+
+/*# sourceMappingURL=App.css.map */

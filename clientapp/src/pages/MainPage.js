@@ -25,9 +25,9 @@ const MainPage = () => {
 
 
             {episodes &&
-                <div>
+                <div className="mt-7">
                     {episodes.map((episode) => (
-                        <div> <EpisodeLink episode={episode}/> </div>
+                         <EpisodeLink key={episode.id} episode={episode}/>
                         ))
                     }
                 </div>
