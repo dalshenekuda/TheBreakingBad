@@ -12,7 +12,8 @@ const MainPage = () => {
     useEffect(async () => {
         setLoading(true)
         const episodeList = await getEpisodes(setError)
-        episodeList.sort((a,b)=>
+        //sort by season
+        episodeList.sort((a, b) =>
             a.season - b.season
         )
         setEpisodes(episodeList)
@@ -22,18 +23,18 @@ const MainPage = () => {
     return (
         <div>
             {isLoading && <Loading/>}
+            {error && error}
 
-
-            {episodes &&
-                <div className="mt-7">
-                    {episodes.map((episode) => (
-                         <EpisodeLink key={episode.id} episode={episode}/>
-                        ))
-                    }
-                </div>
+            {episodes.length!==0 &&
+            <ul className="mt-7">
+                {episodes.map((episode) => (
+                    <li>
+                        <EpisodeLink key={episode.id} episode={episode}/>
+                    </li>
+                ))
+                }
+            </ul>
             }
-
-
         </div>
     );
 };

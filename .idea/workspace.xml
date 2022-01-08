@@ -20,15 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13b0fd4-d489-471a-bfa2-b218dc2b2f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TheBreakingBad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/App.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/App.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientapp/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/App.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientapp/src/components/EpisodeLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/components/EpisodeLink.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientapp/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientapp/src/components/Loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/components/Loading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientapp/src/functions/requests.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/functions/requests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientapp/src/pages/CharacterPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/pages/CharacterPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientapp/src/pages/EpisodePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/pages/EpisodePage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientapp/src/pages/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/pages/MainPage.js" afterDir="false" />
@@ -75,7 +73,7 @@
       <workItem from="1641430737110" duration="12000" />
       <workItem from="1641430762975" duration="30274000" />
       <workItem from="1641535498882" duration="2601000" />
-      <workItem from="1641624559390" duration="7627000" />
+      <workItem from="1641624559390" duration="24758000" />
     </task>
     <servers />
   </component>
