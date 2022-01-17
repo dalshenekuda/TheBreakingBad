@@ -1,3 +1,3 @@
 # TheBreakingBad
 
-Home assignment for company
+Home assignment for company (React, SCSS, Tailwind css)
